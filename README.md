@@ -5,9 +5,6 @@ Dockerfile and basic R Shiny App
 
 ```
 docker run -p 3838:3838 image
-git status
-git add
-git commit
 ```
 
 <p> Navigate to docker server ip and port in browser: ip:3838 </p>
